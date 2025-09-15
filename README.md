@@ -10,48 +10,48 @@ The goal of this project is to practice and demonstrate different visualization 
 
 ## 📂 Project Structure
 
+```text
 project-root/
 │
 ├── data/
-│ └── IMDB_data.csv # IMDB dataset
+│   └── IMDB_data.csv            # IMDB dataset
 │
 ├── notebooks/
-│ ├── seaborn/ # Seaborn visualizations
-│ │ ├── barplot/
-│ │ │ ├── barplot.py
-│ │ │ └── seaborn_barplot.png
-│ │ ├── boxplot/
-│ │ │ ├── boxplot.py
-│ │ │ └── seaborn_boxplot.png
-│ │ ├── heatmap/
-│ │ │ ├── heatmap.py
-│ │ │ └── seaborn_heatmap.png
-│ │ ├── kdeplot/
-│ │ │ ├── kdeplot.py
-│ │ │ └── seaborn_kdeplot.png
-│ │ └── pointplot/
-│ │ ├── pointplot.py
-│ │ └── seaborn_pointplot.png
-│ │
-│ └── matplotlib/ # Matplotlib visualizations
-│ ├── barchart/
-│ │ ├── bar.py
-│ │ └── plt_bar.png
-│ ├── histogram/
-│ │ ├── hist.py
-│ │ └── plt_hist.png
-│ ├── horizontalbar/
-│ │ ├── barh.py
-│ │ └── plt_barh.png
-│ ├── piechart/
-│ │ ├── pie.py
-│ │ └── plt_pie.png
-│ └── stackplot/
-│ ├── stackplot.py
-│ └── plt_stackplot.png
+│   ├── seaborn/                 # Seaborn visualizations
+│   │   ├── barplot/
+│   │   │   ├── barplot.py
+│   │   │   └── seaborn_barplot.png
+│   │   ├── boxplot/
+│   │   │   ├── boxplot.py
+│   │   │   └── seaborn_boxplot.png
+│   │   ├── heatmap/
+│   │   │   ├── heatmap.py
+│   │   │   └── seaborn_heatmap.png
+│   │   ├── kdeplot/
+│   │   │   ├── kdeplot.py
+│   │   │   └── seaborn_kdeplot.png
+│   │   └── pointplot/
+│   │       ├── pointplot.py
+│   │       └── seaborn_pointplot.png
+│   │
+│   └── matplotlib/              # Matplotlib visualizations
+│       ├── barchart/
+│       │   ├── bar.py
+│       │   └── plt_bar.png
+│       ├── histogram/
+│       │   ├── hist.py
+│       │   └── plt_hist.png
+│       ├── horizontalbar/
+│       │   ├── barh.py
+│       │   └── plt_barh.png
+│       ├── piechart/
+│       │   ├── pie.py
+│       │   └── plt_pie.png
+│       └── stackplot/
+│           ├── stackplot.py
+│           └── plt_stackplot.png
 │
 └── README.md
-
 
 
 ---
